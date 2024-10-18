@@ -1,0 +1,11 @@
+img{
+    height:50px ;
+}
+.imagens-logo{
+    display:flex;
+    justify-content:space-between;
+}
+
+.selects,.contato{
+    margin-bottom:10px;
+}
